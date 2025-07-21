@@ -1,7 +1,7 @@
 # Synapto: Intelligent Shift Planner
 
-YouTube Video Demo: https://youtu.be/h8JcKI6n43Y
-
+YouTube Video Demo: [https://youtu.be/h8JcKI6n43Y
+](https://youtu.be/OywEHweN51M)
 GitHub Repository: [https://github.com/captabs1988/cs50-final-project]
 
 ## Inspiration
