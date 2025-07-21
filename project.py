@@ -173,7 +173,7 @@ left_frame = ab.Frame(main_frame)
 left_frame.pack(side="left", fill="y", padx=10, pady=10)
 ab.Frame(main_frame, width=2, bg="grey").pack(side="left", fill="y", padx=2)
 
-resized_image = Image.open("../Finale/logo.png").resize((240, 60), Image.LANCZOS)
+resized_image = Image.open("logo.png").resize((240, 60), Image.LANCZOS)
 logo_image = ImageTk.PhotoImage(resized_image)
 ttk.Label(left_frame, image=logo_image).pack(pady=10)
 
